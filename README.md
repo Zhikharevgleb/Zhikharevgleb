@@ -15,6 +15,7 @@ I am focused on active development and professional growth, ready to tackle new 
 Best regards,  
 Zhikharev Gleb Alexandrovich
 
+![gif_train](1img.gif)
 
 <!-- 
 <p style="display: flex; justify-content: space-between; width: 100%;">
