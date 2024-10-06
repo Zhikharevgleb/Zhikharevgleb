@@ -2,18 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Work,+Study+and+Coding!)](https://git.io/typing-svg)
 
-<!-- 
-<p style="display: flex; justify-content: space-between; width: 100%;">
-  <a href="https://git.io/typing-svg" style="flex: 1; text-align: left;">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Work,+Study+and+Coding!" alt="Typing SVG" />
-  </a>  
-  <a
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; text-align: right;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhikharevgleb&theme=tokyonight&show_icons=true" alt="Top Languages"
-  </a>
-</p> -->
-
 # Hello!
 
 My name is **Zhikharev Gleb Alexandrovich**, and I am a novice IT professional.
@@ -26,3 +14,16 @@ I am focused on active development and professional growth, ready to tackle new 
 
 Best regards,  
 Zhikharev Gleb Alexandrovich
+
+
+<!-- 
+<p style="display: flex; justify-content: space-between; width: 100%;">
+  <a href="https://git.io/typing-svg" style="flex: 1; text-align: left;">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Work,+Study+and+Coding!" alt="Typing SVG" />
+  </a>  
+  <a
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; text-align: right;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhikharevgleb&theme=tokyonight&show_icons=true" alt="Top Languages"
+  </a>
+</p> -->
