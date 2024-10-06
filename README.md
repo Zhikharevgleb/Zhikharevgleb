@@ -1,8 +1,3 @@
----
-layout: default
-title: My Project
----
-
 <link rel="stylesheet" type="text/css" href="/css/styles.css">
 
 # Hello!
