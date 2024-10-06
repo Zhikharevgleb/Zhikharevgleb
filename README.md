@@ -11,18 +11,6 @@
   </a>
 </p>
 
-<p style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-  <a href="https://git.io/typing-svg" style="flex: 1; text-align: left;">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Work,+Study+and+Coding!" alt="Typing SVG" style="max-width: 100%; height: auto;" />
-  </a>
-  <div style="flex-grow: 1;"></div> <!-- Пустой столбец без указанного размера -->
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; text-align: right;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhikharevgleb" alt="Top Languages" style="max-width: 100%; height: auto;" />
-  </a>
-</p>
-
-
-
 # Hello!
 
 My name is **Gleb Alexandrovich Zhikharev**, and I am a novice IT professional.
