@@ -1,5 +1,7 @@
 <link rel="stylesheet" type="text/css" href="/css/styles.css">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Work,+Study+and+Coding!)](https://git.io/typing-svg)
+
 # Hello!
 
 My name is **Gleb Alexandrovich Zhikharev**, and I am a novice IT professional.
