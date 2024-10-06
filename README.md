@@ -1,6 +1,11 @@
-## Hi there 👋
+---
+layout: default
+title: My Project
+---
 
-<div style="background-color: #f0f0f0; padding: 10px;">
+<link rel="stylesheet" type="text/css" href="/css/styles.css">
+
+# Hello!
 
 My name is **Gleb Alexandrovich Zhikharev**, and I am a novice IT professional.
 
@@ -12,23 +17,3 @@ I am focused on active development and professional growth, ready to tackle new 
 
 Best regards,  
 Gleb Alexandrovich Zhikharev
-
-
-...
-</div>
-
-
-<!--
-**Zhikharevgleb/Zhikharevgleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
