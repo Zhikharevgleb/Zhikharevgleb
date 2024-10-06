@@ -1,19 +1,26 @@
 <link rel="stylesheet" type="text/css" href="/css/styles.css">
 
-<table style="border: none; width: 100%; height: 100%;">
-  <tr>
-    <td style="border: none; vertical-align: top; text-align: left; width: 50%;">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Work,+Study+and+Coding!" alt="Typing SVG" />
-      </a>
-    </td>
-    <td style="border: none; vertical-align: top; text-align: right; width: 50%;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhikharevgleb&theme=tokyonight&show_icons=true" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p style="display: flex; justify-content: space-between; width: 100%;">
+  <a href="https://git.io/typing-svg" style="flex: 1; text-align: left;">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Work,+Study+and+Coding!" alt="Typing SVG" />
+  </a>  
+  <a
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; text-align: right;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhikharevgleb&theme=tokyonight&show_icons=true" alt="Top Languages"
+  </a>
+</p>
+
+<p style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
+  <a href="https://git.io/typing-svg" style="flex: 1; text-align: left;">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Work,+Study+and+Coding!" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+  </a>
+  <div style="flex-grow: 1;"></div> <!-- Пустой столбец без указанного размера -->
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; text-align: right;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhikharevgleb" alt="Top Languages" style="max-width: 100%; height: auto;" />
+  </a>
+</p>
+
 
 
 # Hello!
