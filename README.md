@@ -1,6 +1,20 @@
 <link rel="stylesheet" type="text/css" href="/css/styles.css">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Work,+Study+and+Coding!)](https://git.io/typing-svg)
+<table style="border: none; width: 100%; height: 100%;">
+  <tr>
+    <td style="border: none; vertical-align: top; text-align: left; width: 50%;">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com/?lines=Work,+Study+and+Coding!" alt="Typing SVG" />
+      </a>
+    </td>
+    <td style="border: none; vertical-align: top; text-align: right; width: 50%;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhikharevgleb" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 # Hello!
 
